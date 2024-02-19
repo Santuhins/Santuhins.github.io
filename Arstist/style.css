@@ -1,0 +1,13 @@
+h1{
+    color: rgb(19, 97, 97);
+    background: rgb(226, 236, 179);
+}
+img{
+    width: 90px;
+}
+
+#one {
+    color: black;
+    background-color: tomato;
+    text-align: center;
+}
