@@ -1,13 +1,33 @@
 h1{
-    color: rgb(19, 97, 97);
-    background: rgb(226, 236, 179);
+    color: rgb(212, 248, 10);
+    background: rgb(111, 131, 20);
+    
 }
 img{
-    width: 90px;
+    width: 120px;
 }
 
 #one {
     color: rgb(255, 255, 255);
     background-color: rgb(90, 68, 64);
     text-align: center;
+}
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-image: url('John.jpg');
+    background-size: contain;
+  }
+  
+#Two {
+    color: aliceblue;
+    background-color:rgb(90, 68, 64) ;
+    text-align: center
+}
+#picture{
+    width: 300px;
+}
+p{
+    color: white;
 }
